@@ -1,0 +1,14 @@
+{
+  "name": "RT-Tech",
+  "version": "1.0.0",
+  "description": "RT-Tech Landing Page",
+  "scripts": {
+    "lite": "lite-server --port 8080",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^1.3.1"
+  }
+}
